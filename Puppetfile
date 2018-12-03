@@ -1,7 +1,7 @@
 forge "https://forge.puppet.com"
 
 
-mod "puppetlabs/ntp", '4.2.0'
+mod "puppetlabs/ntp"
 mod "puppetlabs/haproxy"
 
 
